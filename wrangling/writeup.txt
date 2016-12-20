@@ -1,0 +1,13 @@
+﻿HW1 Writeup
+Rasmi Lamichhane
+
+
+district.py
+I basically have returned a dictionary  with the  district as keys. I have used GENERAL % for this. the main goal of this file is to be able to sort the most competitive district to be the head of the output and least to be tail and margin. Most challenging part was districe_margin function. I was having error when I edited the yield part and fixed it later. 
+
+
+words.py 
+tried to count the most frequent words going through the zip file. I find this is really interesting. I would like to do this more.
+
+
+for an external resource I have used codecademy for the basic understanding of python code, StackOverflow for the error and lots of help from the group of my friend.

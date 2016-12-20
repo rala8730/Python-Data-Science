@@ -1,0 +1,37 @@
+﻿I used the given formula from the slides to finish all of the homework. I had error in my degreeof freedom and t-statics  because i squared the unbiased sample variance. 
+here is the formula that i have used.
+
+
+Degree of freedom 
+
+
+ Screen Shot 2016-10-13 at 10.17.16 PM.png 
+
+	
+
+ unbiased_sample_variance
+ Screen Shot 2016-10-13 at 10.19.55 PM.png 
+
+t_statistic
+
+
+ Screen Shot 2016-10-13 at 10.17.34 PM.png 
+
+	
+
+t-test
+
+
+    p=2*(1.0-t.cdf(abs(t_stastics),degree_of_freedom))
+	
+
+chisquare_pvalue
+
+
+used the chi square function and  ignored the first value so i could return chi value only
+	
+
+bigram
+
+
+created a counter and set it up so that if key exist then count if not its null. and if the value is greater than append.

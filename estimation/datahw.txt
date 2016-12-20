@@ -1,0 +1,9 @@
+﻿* Describes your approach
+* * Describes whether Colorado's congression districts look more like the congressional districts of states that Obama won or that Romeny won
+* it looks like obama own 
+* Plot a histogram of both the Obama and Romney states. Is it reasonable to assume that these are a normal distribution?
+*  yes it is reasonable to  assume that these are normal distribution.
+* Gives an interesting example of a word that Obama said that no previous president said
+* * Gives an interesting example of a bigram that Obama said that no previous president said
+* * Generates a random sentence from a Republican and a Democrat.
+*
